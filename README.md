@@ -23,7 +23,7 @@
 ### 1. Клонирование и настройка
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vovkka/url-alias.git
 cd url-alias
 ```
 
